@@ -7,10 +7,10 @@
     
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mizaeldouglas&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MizaelDouglasDeMello&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mizaeldouglas&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MizaelDouglasDeMello&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
     
   </div>
@@ -41,7 +41,7 @@
 #
 
 ###  about
- As a freelancer, I work with web and mobile software development, using technologies such as C#, .NET, Java, Spring Boot, SQL, MySQL, Postgree, Docker, Azure, JavaScript, TypeScript, HTML, CSS, ReactJs, Figma. I have training in software analysis and development from Descomplica Faculdade Digital, and complementary courses from Alura, Bata.io and b7web.
+ As a freelancer, I work with web and mobile software development, using technologies such as Swift, IOS, C#, .NET, Java, Spring Boot, SQL, MySQL, Postgree, Docker, Azure, JavaScript, TypeScript, HTML, CSS, ReactJs, Figma. I have training in software analysis and development from Descomplica Faculdade Digital, and complementary courses from Alura, Bata.io and b7web.
 
 In recent years, I have delivered quality, innovative and efficient solutions for several clients and projects, such as a delivery application in Flutter, an inventory management system in C# and .NET, and an e-commerce website in Blazor, ASP .NET Razor and Bootstrap. I'm always looking for new challenges and learning opportunities, and I stay up to date with the latest trends and tools in the software development market. My goal is to create solutions that meet the needs of my clients and that generate value for their businesses.
 #
