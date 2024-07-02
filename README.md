@@ -10,7 +10,7 @@
   <img height=150 align="left" src="https://github-readme-stats.vercel.app/api?username=MizaelDouglasDeMello&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MizaelDouglasDeMello&layout=compact&langs_count=8&card_width=320&theme=radical" />
+  <img height=150 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MizaelDouglasDeMello&layout=compact&langs_count=8&card_width=320&theme=radical" />
 </a>
     
   </div>
