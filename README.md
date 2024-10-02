@@ -1,5 +1,6 @@
 
-<h4 align="center">Sou desenvolvedor de software mobile, especializado em Kotlin, Swift e Flutter com Dart. Nos meus projetos freelance para web, utilizo PHP, Laravel e WordPress. Formado em Análise e Desenvolvimento de Software pela Descomplica Faculdade Digital, também concluí cursos na Alura, Bata.io e b7web.<br>Entreguei soluções inovadoras e eficientes, como uma aplicação de delivery em Flutter, um sistema de gestão de estoque em PHP e Laravel, e sites de e-commerce em WordPress. Estou sempre em busca de novos desafios e me mantenho atualizado com as últimas tendências do mercado. Meu objetivo é criar soluções que gerem valor para os negócios dos meus clientes.</h4>
+<h4 align="center">Sou desenvolvedor de software mobile, especializado em Kotlin, Swift e Flutter com Dart. <br>
+Nos meus projetos freelance para web, utilizo PHP, Laravel e WordPress. <br> Formado em Análise e Desenvolvimento de Software pela Descomplica Faculdade Digital, <br>também concluí cursos na Alura, Bata.io e b7web.<br>Entreguei soluções inovadoras e eficientes, como uma aplicação de delivery em Flutter,<br> um sistema de gestão de estoque em PHP e Laravel, e sites de e-commerce em WordPress. <br>Estou sempre em busca de novos desafios e me mantenho atualizado com as últimas tendências do mercado. <br>Meu objetivo é criar soluções que gerem valor para os negócios dos meus clientes.</h4>
 
 ###
 
